@@ -44,6 +44,10 @@ body {
     padding-top: 25px;
     transition-duration: 0.3s;
   }
+
+  .cursPointer:hover{
+      cursor: pointer;
+  }
   
   /*donate options end*/
   /*monthly donation start*/
