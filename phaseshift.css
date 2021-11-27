@@ -2,8 +2,14 @@
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 body {
     font-family: 'Alegreya Sans', sans-serif;
+    
 }
 /* FontAwesome for working BootSnippet :> */
+
+#sendbtn{
+    margin: 20px;
+    background-color: white;
+}
 
 .bg {
     width: 100%;
